@@ -9,7 +9,7 @@ Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 2003 Server
 Email account: POP3 & SMTP Server.
 A Gmail or Yahoo mail account could be worth. It can be used exclusively, or shared.
 
-Chillkat POP/SMTP libraries.
+Chilkat POP/SMTP libraries.
 
 Quickmacros for compile.
 
@@ -26,7 +26,7 @@ Editor and Compiler C / .NET-C#/ C ++ with own language, proprietary but economi
 
 The best way to create fast binary executables for Windows :-)
 
-# Quickmacros and Chillchat have own Licenses. View on:
+# Quickmacros and Chilkat have own Licenses. View on:
 http://www.quickmacros.com/
 
 https://www.chilkatsoft.com/
