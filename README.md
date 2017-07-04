@@ -15,3 +15,9 @@ MIT License on code
 
 User Manual: PopExe – User Manual
 https://softwaresimple.es/en/2016/08/28/popexe-user-manual/
+
+Made with Quickmacros (Editor and Compiler C / .NET-C#/ C ++ with own language, proprietary but economic. The best way to create fast binary executables for Windows :-)
+
+Quickmacros and Chillchat have own Licenses. View on:
+http://www.quickmacros.com/
+https://www.chilkatsoft.com/
