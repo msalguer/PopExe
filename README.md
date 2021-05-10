@@ -25,7 +25,7 @@ Advanced users, system administrators, developers, and in general users who need
 MIT License on source code
 
 # User Manual: 
-PopExe – User Manual: https://softwaresimple.es/en/2016/08/28/popexe-user-manual/
+PopExe – User Manual: https://softwaresimple.es/2016/08/24/manual-de-uso-del-software-popexe/
 
 # Made with Quickmacros
 Editor and Compiler C / .NET-C#/ C ++ with own language, proprietary but economic.
